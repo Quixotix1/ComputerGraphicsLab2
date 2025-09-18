@@ -1,2 +1,0 @@
-# ComputerGraphicsLab2
-
